@@ -28,3 +28,29 @@
  .card-product p {
    margin: 0;
  }
+
+ .card-trip {
+  background: white;
+ }
+
+ .card-trip img {
+   height: 250px;
+   width: 100%;
+   object-fit: cover;
+ }
+
+ .card-trip-footer {
+   padding: 16px;
+   display: flex;
+   align-items: flex-end;
+   justify-content: space-between;
+
+ }
+
+ .card-trip-footer h2 {
+  margin: 0;
+}
+
+.card-trip-footer p {
+  margin: 0;
+}
