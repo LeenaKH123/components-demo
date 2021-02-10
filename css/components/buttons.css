@@ -1,0 +1,29 @@
+.btn-airbnb {
+  text-decoration: none;
+  background-color: red ;
+  color: white;
+  padding:8px 24px;
+  border-radius: 4px;
+  transition: 1s;
+  /*box-shadow: 2px 2px 3px black;*/
+}
+
+.btn-airbnb:hover {
+  background-color: gainsboro;  
+}
+
+.btn-medium {
+  text-decoration: none;
+  border: 1px solid green;
+  color: green;
+  font-weight: lighter;
+  padding:8px 24px;
+  border-radius: 4px;
+  transition:.3s;
+  /*box-shadow: 2px 2px 3px black;*/
+}
+
+.btn-medium:hover {
+  color: #62c362;
+  border: 1px solid #62c362;
+}
